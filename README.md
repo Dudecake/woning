@@ -24,8 +24,15 @@
 
 ### Afmetingen trap
 
-|     | reguliere trap - woonfunctie | reguliere trap - andere gebruiksfunctie | trap uitsluitend voor ontvluchten |
-| --- | ---------------------------- | --------------------------------------- | --------------------------------- |
+|                                        | reguliere trap - woonfunctie | reguliere trap - andere gebruiksfunctie | trap uitsluitend voor ontvluchten |
+| -------------------------------------- | ---------------------------- | --------------------------------------- | --------------------------------- |
+| minimale breedte                       | 0.8                          | 0.8                                     | 0.8                               |
+| minimum vrije hoogte                   | 2.3                          | 2.1                                     | 2.1                               |
+| minimum aantrede                       | 0.22                         | 0.185                                   | 0.185                             |
+| maximum hoogte optrede                 | 0.188                        | 0.21                                    | 0.21                              |
+| minimum breedte tredevlak              | 0.05                         | 0.05                                    | 0.05                              |
+| minimum breedte tredevlak bij klimlijn | 0.23                         | 0.23                                    | 0.23                              |
+| minimum afstand klimlijn tot zijkant   | 0.3                          | 0.3                                     | 0.3                               |
 
 ## Daglicht
 

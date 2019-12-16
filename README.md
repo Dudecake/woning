@@ -38,23 +38,23 @@
 
 | Daglichtoppervlakte | minimaal |
 | ------------------- | -------- |
-| 10%                 | 5m2      |
+| 10%                 | 5m²      |
 
 ## Ventilatie
 
-| Ruimte                            | absoluut | relatief  | notitie                 |
-| --------------------------------- | -------- | --------- | ----------------------- |
-| toilet                            | 7l/s     |           | rechstreeks naar buiten |
-| bad                               | 14l/s    |           | rechstreeks naar buiten |
-| keuken                            | 21l/s    |           | rechstreeks naar buiten |
-| verblijfsgebied                   | 7l/s     | 0.9l/s/m2 | luchverversing          |
-| verblijfsruimte                   | 7l/s     | 0.7l/s/m2 | luchverversing          |
-| gemeenschappelijke verkeersruimte |          | 0.5l/s/m2 | niet afsluitbaar        |
-| ruimste gasmeter                  | 2l/s     | 1l/s/m2   | niet afsluitbaar        |
-| schacht lift                      |          | 3.2l/s/m2 | niet afsluitbaar        |
-| opslag afval                      |          | 10l/s/m2  | niet afsluitbaar        |
-| verblijfsgebied                   |          | 6l/s/m2   | spuivoorziening         |
-| verblijfsruimte                   |          | 3l/s/m2   | spuivoorziening         |
+| Ruimte                            | absoluut | relatief  | notitie                  |
+| --------------------------------- | -------- | --------- | ------------------------ |
+| toilet                            | 7L/s     |           | rechtstreeks naar buiten |
+| bad                               | 14L/s    |           | rechtstreeks naar buiten |
+| keuken                            | 21L/s    |           | rechtstreeks naar buiten |
+| verblijfsgebied                   | 7L/s     | 0.9L/s/m² | luchtverversing          |
+| verblijfsruimte                   | 7L/s     | 0.7L/s/m² | luchtverversing          |
+| gemeenschappelijke verkeersruimte |          | 0.5L/s/m² | niet afsluitbaar         |
+| ruimste gasmeter                  | 2L/s     | 1L/s/m²   | niet afsluitbaar         |
+| schacht lift                      |          | 3.2L/s/m² | niet afsluitbaar         |
+| opslag afval                      |          | 10L/s/m²  | niet afsluitbaar         |
+| verblijfsgebied                   |          | 6L/s/m²   | spuivoorziening          |
+| verblijfsruimte                   |          | 3L/s/m²   | spuivoorziening          |
 
 ## Optimale dakhelling
 

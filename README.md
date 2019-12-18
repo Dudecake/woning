@@ -13,7 +13,7 @@
 | Verblijfsgebied voor woonfunctie |         |        |                   18 |              1.8 |             2.6 |           |
 | Verblijfsgebied                  |         |        |                    5 |              1.8 |             2.6 |           |
 | Verblijfsruimte                  |         |        |                      |              1.8 |             2.6 |           |
-| Verblijfstuimte                  |         |        |                   11 |                3 |             2.6 |           |
+| Verblijfsruimte                  |         |        |                   11 |                3 |             2.6 |           |
 | Trap                             |         |        |                      |              0.8 |             2.3 |           |
 | Vrije Doorgang                   |         |        |                      |             0.85 |             2.3 |           |
 | opstelplaats aanrecht            |     1.6 |    0.6 |                      |                  |                 | nee       |
@@ -58,7 +58,7 @@
 
 ## Optimale dakhelling
 
-reript van <https://www.milieucentraal.nl/energie-besparen/zonnepanelen/zonnepanelen-kopen/kunnen-zonnepanelen-op-mijn-dak/>
+geript van <https://www.milieucentraal.nl/energie-besparen/zonnepanelen/zonnepanelen-kopen/kunnen-zonnepanelen-op-mijn-dak/>
 
 | richting  | helling |
 | --------- | ------- |
@@ -70,6 +70,28 @@ reript van <https://www.milieucentraal.nl/energie-besparen/zonnepanelen/zonnepan
 | noordoost | 10°     |
 | noord     | 10°     |
 | noordwest | 10°     |
+
+met de eis van de minimale dakhelling van 35° wordt een efficiëntie van 85% verwacht.
+
+## Meterkast
+
+| Eis                    | Criteria    |
+| ---------------------- | ----------- |
+| Afstand vanaf voordeur | 3m          |
+| Min. afmetingen        | 240x75x31cm |
+
+## Serverhok
+
+Twee opties:
+
+1. Onder de trap op de begane grond/in de kelder;
+2. Onder de trap bij het pc/vr hok achter een muur met verstopt luik.
+
+als het serverhok op de eerste locatie is, wordt de koelingssituatie eenvoudiger doordat de temperatuur in de kelder altijd hetzelfde is.
+
+als het serverhok op de tweede locatie is, hoeft er als/waneer ik mijn computers naar een epyc server geconsolideerd heb ik geen 10-20m kabels hoef te trekken.
+
+Alle netwerkkabels komen uit in het serverhok.
 
 ## Welstandseisen
 

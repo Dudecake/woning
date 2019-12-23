@@ -109,3 +109,24 @@ Alle netwerkkabels komen uit in het serverhok.
 | Hoofdmateriaal    | Handvorm baksteen of daaraan gelijkende baksteen in warme rood- en roodbruine tinten |
 | Kozijnen          | Hoofdzakelijke (gebroken) wit                                                        |
 | Erfscheidingen    | Hagen en struikbeplanting                                                            |
+
+## Fasering
+
+### fase 1
+
+- kelder
+- keuken
+- toilet
+- badkamer
+- slaapkamer
+- pc hok
+- serverruimte
+
+### fase 2
+
+- logeerkamer
+- zolderkamers
+
+## fase 3
+
+- zonnepanelen

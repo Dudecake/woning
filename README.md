@@ -110,6 +110,15 @@ Alle netwerkkabels komen uit in het serverhok.
 | Kozijnen          | Hoofdzakelijke (gebroken) wit                                                        |
 | Erfscheidingen    | Hagen en struikbeplanting                                                            |
 
+### Kleuren
+
+| Object              | Eis                              |
+| ------------------- | -------------------------------- |
+| Gevelbekleding      | warme rood- en roodbruine tinten |
+| Kleinere geveldelen | wit metsel-/stucwerk             |
+| Dakbedekking        | grijze tinten                    |
+| Kozijnen en lijsten | (gebroken) wit                   |
+
 ## Fasering
 
 ### fase 1
